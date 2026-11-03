@@ -1,8 +1,8 @@
-\# 🐧 Linux File Manager
+# 🐧 Linux File Manager
 
 
 
-A beginner-friendly command-line file management application built using \*\*Bash scripting on Linux\*\*.
+A beginner-friendly command-line file management application built using **Bash scripting on Linux**.
 
 
 
@@ -10,43 +10,43 @@ Linux File Manager makes everyday file and directory operations easier through a
 
 
 
-\## 🚀 Features
+## 🚀 Features
 
 
 
-\- 📁 List files and directories
+- 📁 List files and directories
 
-\- 📂 Create new directories
+- 📂 Create new directories
 
-\- 📄 Create new files
+- 📄 Create new files
 
-\- 📋 Copy files
+- 📋 Copy files
 
-\- 🚚 Move files between directories
+- 🚚 Move files between directories
 
-\- 🗑️ Delete files
+- 🗑️ Delete files
 
-\- 🔍 Search for files
+- 🔍 Search for files
 
-\- ⚡ Simple interactive command-line interface
-
-
-
-\## 🛠️ Technologies Used
+- ⚡ Simple interactive command-line interface
 
 
 
-\- Linux (Ubuntu)
-
-\- Bash Scripting
-
-\- Linux Command-Line Utilities
-
-\- Git \& GitHub
+## 🛠️ Technologies Used
 
 
 
-\## 📋 Requirements
+- Linux (Ubuntu)
+
+- Bash Scripting
+
+- Linux Command-Line Utilities
+
+- Git \& GitHub
+
+
+
+## 📋 Requirements
 
 
 
@@ -54,19 +54,19 @@ Before running this project, make sure you have:
 
 
 
-\- Linux operating system (Ubuntu recommended)
+- Linux operating system (Ubuntu recommended)
 
-\- Bash shell
+- Bash shell
 
-\- Git (optional, for cloning the repository)
-
-
-
-\## 📥 Installation
+- Git (optional, for cloning the repository)
 
 
 
-\*\*1. Clone the repository\*\*
+## 📥 Installation
+
+
+
+**1. Clone the repository**
 
 
 
@@ -78,7 +78,7 @@ git clone https://github.com/YOUR\_USERNAME/linux-file-manager.git
 
 
 
-\*\*2. Navigate to the project directory\*\*
+**2. Navigate to the project directory**
 
 
 
@@ -90,7 +90,7 @@ cd linux-file-manager
 
 
 
-\*\*3. Give execution permission\*\*
+**3. Give execution permission**
 
 
 
@@ -102,7 +102,7 @@ chmod +x main.sh
 
 
 
-\*\*4. Run the application\*\*
+**4. Run the application**
 
 
 
@@ -114,7 +114,7 @@ chmod +x main.sh
 
 
 
-\## 💻 How to Use
+## 💻 How to Use
 
 
 
@@ -126,27 +126,27 @@ After running the application, an interactive menu will appear.
 
 ================================
 
-&#x20;      LINUX FILE MANAGER
+      LINUX FILE MANAGER
 
 ================================
 
 
 
-1\. List files
+1. List files
 
-2\. Create directory
+2. Create directory
 
-3\. Create file
+3. Create file
 
-4\. Copy file
+4. Copy file
 
-5\. Move file
+5. Move file
 
-6\. Delete file
+6. Delete file
 
-7\. Search file
+7. Search file
 
-8\. Exit
+8. Exit
 
 
 
@@ -160,7 +160,7 @@ Choose an option and follow the instructions displayed in the terminal.
 
 
 
-\## 📂 Project Structure
+## 📂 Project Structure
 
 
 
@@ -200,11 +200,11 @@ linux-file-manager/
 
 
 
-\*Note: The structure above represents the planned modular organization. Adjust it to match your actual repository.\*
+*Note: The structure above represents the planned modular organization. Adjust it to match your actual repository.*
 
 
 
-\## 🎯 Project Goals
+## 🎯 Project Goals
 
 
 
@@ -212,35 +212,35 @@ This project was created to:
 
 
 
-\- Improve practical Linux command-line skills.
+- Improve practical Linux command-line skills.
 
-\- Learn Bash scripting and automation.
+- Learn Bash scripting and automation.
 
-\- Understand Linux file system operations.
+- Understand Linux file system operations.
 
-\- Practice real-world software development.
+- Practice real-world software development.
 
-\- Gain hands-on experience with Git and GitHub.
-
-
-
-\## 🔮 Future Improvements
+- Gain hands-on experience with Git and GitHub.
 
 
 
-\- File permission management.
-
-\- Recursive directory operations.
-
-\- Better error handling.
-
-\- File operation history.
-
-\- Interactive terminal interface improvements.
+## 🔮 Future Improvements
 
 
 
-\## 🤝 Contributions
+- File permission management.
+
+- Recursive directory operations.
+
+- Better error handling.
+
+- File operation history.
+
+- Interactive terminal interface improvements.
+
+
+
+## 🤝 Contributions
 
 
 
@@ -252,11 +252,11 @@ Feel free to fork this repository, create a new branch, and submit a pull reques
 
 
 
-\## 👨‍💻 Author
+## 👨‍💻 Author
 
 
 
-\*\*YOUR NAME\*\*
+**YOUR NAME**
 
 
 
@@ -264,7 +264,7 @@ GitHub: https://github.com/YOUR\_USERNAME
 
 
 
-\---
+---
 
 
 
@@ -272,7 +272,7 @@ GitHub: https://github.com/YOUR\_USERNAME
 
 
 
-\*\*Made with ❤️ using Linux and Bash.\*\*
+**Made with ❤️ using Linux and Bash.**
 
 
 
